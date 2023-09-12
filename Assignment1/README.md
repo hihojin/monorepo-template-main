@@ -1,13 +1,9 @@
-# TODO Please edit the following information in your assignment
-
-- Name:
-- How many hours did it take you to complete this assignment?
-- Did you collaborate with any other students/TAs/Professors?
-- Did you use any external resources? (Cite them below)
-  - tbd
-  - tbd
-- (Optional) What was your favorite part of the assignment?
-- (Optional) How would you improve the assignment?
+- Name: Hyojin Kwak
+- How many hours did it take you to complete this assignment? 3 hours 30 minutes
+- Did you collaborate with any other students/TAs/Professors? No
+- Did you use any external resources? (Cite them below): No
+- (Optional) What was your favorite part of the assignment? Reviewing Python and learning missing information I didn't know about like logging library
+- (Optional) How would you improve the assignment? N/A
 
 # Implementation Logistics
 
