@@ -1,12 +1,12 @@
 # TODO Please edit the following information in your assignment
 
-- Name:
-- How many hours did it take you to complete this assignment?
-- Did you collaborate with any other students/TAs/Professors?
+- Name: Hyojin Kwak
+- How many hours did it take you to complete this assignment? 3
+- Did you collaborate with any other students/TAs/Professors? No
 - Did you use any external resources? (Cite them below)
-  - tbd
-  - tbd
-- (Optional) What was your favorite part of the assignment?
+  - lecture notes and recordings
+  - https://mathspp.com/blog/custom-json-encoder-and-decoder
+- (Optional) What was your favorite part of the assignment? https://mathspp.com/blog/custom-json-encoder-and-decoder was very helpful understanding how code works
 - (Optional) How would you improve the assignment?
 
 # Implementation Logistics
