@@ -1,4 +1,3 @@
-# TODO Please edit the following information in your assignment
 
 - Name: Hyojin Kwak
 - How many hours did it take you to complete this assignment? 3
