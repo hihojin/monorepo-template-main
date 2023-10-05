@@ -1,4 +1,3 @@
-**TODO for your task:** Edit the Text in italics with your text.
 
 <hr>
 
@@ -6,31 +5,31 @@
 
 <hr>
 
-**Use Case**: *use-case-title*
+**Use Case**: drawing on canvas while mouse left button is clicked
 
-**Primary Actor**: *primary-actor*
+**Primary Actor**: user
 
-**Goal in Context**: *the aim of the primary-actor in a particular circumstance*
+**Goal in Context**: when user left-clicks a mouse it draws on a canvas
 
-**Preconditions**: *conditions that must be true before the scenario may play out*
+**Preconditions**: running program with drawable canvas on screen.
 
-**Trigger**: *an action or actions that initiate the scenario*
+**Trigger**: user's left click on mouse
   
-**Scenario**: *an enumerated list of steps describing the actions and interactions of the primary actor with the system*
+**Scenario**: (1) user's left click on mouse anywhere on canvas (2) pixel colors will be displayed whereever the mouse is located and clicked (3) user drags the mouse and draw (4) user unpresses left-click to stop drawing 
  
-**Exceptions**: *errors or faults that may occur during the scenario. Should include remedy/corrective action taken by the primary actor*
+**Exceptions**: n/a
 
-**Priority**: *relative importance of this use case compared to other use cases*
+**Priority**: 1
 
-**When available**: *the targeted release that covers this use case*
+**When available**: first release
 
-**Channel to actor**: *the means through which the primary actor and the system communicate*
+**Channel to actor**: mouse left-click
 
-**Secondary Actor**: *any other actors – people or systems – that may be involved in the scenario*
+**Secondary Actor**: n/a
 
-**Channels to Secondary Actors**: *the means through which any secondary actors may interact with the system or other actors*
+**Channels to Secondary Actors**: n/a
 
-**Open Issues**: *notes, concerns, or other materials*
+**Open Issues**: n/a
 
 <hr>
 

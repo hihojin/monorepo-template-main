@@ -1,4 +1,3 @@
-**TODO for your task:** Edit the Text in italics with your text.
 
 <hr>
 
@@ -6,31 +5,31 @@
 
 <hr>
 
-**Use Case**: *use-case-title*
+**Use Case**: clearing canvas and filling the canvas background color with a user's last selected color
 
-**Primary Actor**: *primary-actor*
+**Primary Actor**: user
 
-**Goal in Context**: *the aim of the primary-actor in a particular circumstance*
+**Goal in Context**: to clear up canvas and set a new canvas background color
 
-**Preconditions**: *conditions that must be true before the scenario may play out*
+**Preconditions**: program running with the right canvas size, and correctly mapped number keys & colors
 
-**Trigger**: *an action or actions that initiate the scenario*
+**Trigger**: user presses spacebar
   
-**Scenario**: *an enumerated list of steps describing the actions and interactions of the primary actor with the system*
+**Scenario**: (1) user presses spacebar (2) clears drawings(all pixels) (3) filling canvas background color with the last selected color by user
  
-**Exceptions**: *errors or faults that may occur during the scenario. Should include remedy/corrective action taken by the primary actor*
+**Exceptions**: (1) some pixels might not be cleared. clear it up. (2) canvas background color might not be filled with the last selected color by user. check if the last color is being updated corrrectly.
 
-**Priority**: *relative importance of this use case compared to other use cases*
+**Priority**: 1
 
-**When available**: *the targeted release that covers this use case*
+**When available**: first release
 
-**Channel to actor**: *the means through which the primary actor and the system communicate*
+**Channel to actor**: space bar
 
-**Secondary Actor**: *any other actors – people or systems – that may be involved in the scenario*
+**Secondary Actor**: n/a
 
-**Channels to Secondary Actors**: *the means through which any secondary actors may interact with the system or other actors*
+**Channels to Secondary Actors**: n/a
 
-**Open Issues**: *notes, concerns, or other materials*
+**Open Issues**: n/a
 
 <hr>
 

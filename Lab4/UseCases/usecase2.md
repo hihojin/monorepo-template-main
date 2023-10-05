@@ -1,4 +1,3 @@
-**TODO for your task:** Edit the Text in italics with your text.
 
 <hr>
 
@@ -6,31 +5,31 @@
 
 <hr>
 
-**Use Case**: *use-case-title*
+**Use Case**: mapping number keys 1 through 8 to different colors
 
-**Primary Actor**: *primary-actor*
+**Primary Actor**: user
 
-**Goal in Context**: *the aim of the primary-actor in a particular circumstance*
+**Goal in Context**: different number keys 1 through 8 should be mapped to different colors
 
-**Preconditions**: *conditions that must be true before the scenario may play out*
+**Preconditions**: drawable canvas size of 600x400 should be displayed on screen
 
-**Trigger**: *an action or actions that initiate the scenario*
+**Trigger**: pressing number keys 1 through 8
   
-**Scenario**: *an enumerated list of steps describing the actions and interactions of the primary actor with the system*
+**Scenario**: (1) pressing 1 sets to black (2) pressing 2 sets to white (3) pressing 3 sets to red (4) pressing 4 sets to green (5) pressing 5 sets to blue (6) pressing 6 sets to yellow (7) pressing 7 sets to magenta (8) pressing 8 sets to cyan
  
-**Exceptions**: *errors or faults that may occur during the scenario. Should include remedy/corrective action taken by the primary actor*
+**Exceptions**: user might press other keys that are not number keys 1 through 8. - program should show directive message to user to play with 1 through 8 number keys
 
-**Priority**: *relative importance of this use case compared to other use cases*
+**Priority**: 1
 
-**When available**: *the targeted release that covers this use case*
+**When available**: first release
 
-**Channel to actor**: *the means through which the primary actor and the system communicate*
+**Channel to actor**: screen, number keys
 
-**Secondary Actor**: *any other actors – people or systems – that may be involved in the scenario*
+**Secondary Actor**: n/a
 
-**Channels to Secondary Actors**: *the means through which any secondary actors may interact with the system or other actors*
+**Channels to Secondary Actors**: n/a
 
-**Open Issues**: *notes, concerns, or other materials*
+**Open Issues**: n/a
 
 <hr>
 

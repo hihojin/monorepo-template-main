@@ -1,4 +1,3 @@
-**TODO for your task:** Edit the Text in italics with your text.
 
 <hr>
 
@@ -6,31 +5,31 @@
 
 <hr>
 
-**Use Case**: *use-case-title*
+**Use Case**: window size and drawable canvas size set-up
 
-**Primary Actor**: *primary-actor*
+**Primary Actor**: system set-up
 
-**Goal in Context**: *the aim of the primary-actor in a particular circumstance*
+**Goal in Context**: creating a drawable canvas of size 600x400 for users
 
-**Preconditions**: *conditions that must be true before the scenario may play out*
+**Preconditions**: having a working computer and successful initialization of program
 
-**Trigger**: *an action or actions that initiate the scenario*
+**Trigger**: no action from user needed / user clicks the application to open the window
   
-**Scenario**: *an enumerated list of steps describing the actions and interactions of the primary actor with the system*
+**Scenario**: N/A
  
-**Exceptions**: *errors or faults that may occur during the scenario. Should include remedy/corrective action taken by the primary actor*
+**Exceptions**: window size might not be set up correctly with wrongn numbers. developer should find this and fix the number
 
-**Priority**: *relative importance of this use case compared to other use cases*
+**Priority**: 1
 
-**When available**: *the targeted release that covers this use case*
+**When available**: first release
 
-**Channel to actor**: *the means through which the primary actor and the system communicate*
+**Channel to actor**: mouse click, computer screen
 
-**Secondary Actor**: *any other actors – people or systems – that may be involved in the scenario*
+**Secondary Actor**: n/a
 
-**Channels to Secondary Actors**: *the means through which any secondary actors may interact with the system or other actors*
+**Channels to Secondary Actors**: n/a
 
-**Open Issues**: *notes, concerns, or other materials*
+**Open Issues**: none
 
 <hr>
 
